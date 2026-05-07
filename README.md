@@ -6,6 +6,10 @@ English | [简体中文](README.zh-CN.md)
 
 NetCanvas is a virtual network planning workspace. It helps users design network topologies on a visual canvas, organize device and network relationships, review generated command plans, run basic safety checks, and simulate simple route paths. Its primary goal is not fully automated deployment, but helping users turn topology design into configuration references.
 
+## Screenshot
+
+![](./screenshot.png)
+
 ## Features
 
 - Infinite topology canvas with pan, zoom, box select, selection, and draggable nodes.
